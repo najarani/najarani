@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on reviews recommendation web system<br>I am learning some AI, Data and Mobile App Development Stuffs<br>
+I am currently working on a reviews recommendation web system<br>I am learning some AI, Data and Mobile App Development Stuffs<br>
 
 
 # 💻 Tech Stack:
